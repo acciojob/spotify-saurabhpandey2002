@@ -8,7 +8,6 @@ public class Playlist {
     public Playlist(){
 
     }
-
     public Playlist(String title){
         this.title = title;
     }
